@@ -16,7 +16,6 @@ A React + TypeScript web app for exploring Star Wars planets with a MongoDB-back
 Create a `.env` file in the project root with your MongoDB connection string:
 
 ```bash
-MONGODB_URI=mongodb://127.0.0.1:27017/rightmo_planets
 PORT=4000
 ```
 
