@@ -30,6 +30,7 @@ Start the backend in one terminal:
 
 ```bash
 npm run server
+End poiint= http://localhost:4000/api/planets
 ```
 
 Start the frontend in another terminal:
