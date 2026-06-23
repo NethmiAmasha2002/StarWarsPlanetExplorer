@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/layout.tsx","./src/components/planettable.tsx","./src/data/swapi.ts","./src/pages/planetdetailspage.tsx","./src/pages/planetspage.tsx"],"version":"5.9.3"}
